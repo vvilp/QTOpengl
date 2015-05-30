@@ -7,3 +7,5 @@ QT += core gui opengl widgets
 
 SOURCES += \
     main.cpp
+
+
